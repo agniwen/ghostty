@@ -1,5 +1,4 @@
 font-family = Hack
-font-family = Noto Sans SC
 font-family-italic = Hack Italic
 font-family-bold = Hack Bold
 font-family-bold-italic = Hack BoldItalic
@@ -16,8 +15,8 @@ adjust-cell-height = 2
 
 
 # --- Theme and Colors ---
-#theme = Github Dark Default
-theme = dark:token-dark,light:token-dark
+theme = Github Dark Default
+
 # --- Window and Appearance ---
 window-padding-x = 10
 window-padding-y = 8
