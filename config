@@ -15,7 +15,8 @@ adjust-cell-height = 2
 
 
 # --- Theme and Colors ---
-theme = Github Dark Default
+#theme = Github Dark Default
+split-divider-color = #323740
 
 # --- Window and Appearance ---
 window-padding-x = 10
