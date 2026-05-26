@@ -2,6 +2,9 @@ font-family = Hack
 font-family-italic = Hack Italic
 font-family-bold = Hack Bold
 font-family-bold-italic = Hack BoldItalic
+#theme = Catppuccin Frappe
+
+shell-integration-features = ssh-env,ssh-terminfo
 
 
 font-thicken = true
@@ -19,8 +22,8 @@ adjust-cell-height = 2
 split-divider-color = #323740
 
 # --- Window and Appearance ---
-window-padding-x = 10
-window-padding-y = 8
+#window-padding-x = 10
+#window-padding-y = 8
 window-save-state = always
 window-theme = auto
 
