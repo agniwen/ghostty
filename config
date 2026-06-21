@@ -2,10 +2,11 @@ font-family = Hack
 font-family-italic = Hack Italic
 font-family-bold = Hack Bold
 font-family-bold-italic = Hack BoldItalic
-theme = Catppuccin Macchiato
+theme = Catppuccin Frappe
+
 shell-integration-features = ssh-env,ssh-terminfo
 
-
+language = zh-cn
 font-thicken = true
 window-inherit-working-directory = false
 tab-inherit-working-directory = true
@@ -18,7 +19,7 @@ adjust-cell-height = 2
 
 # --- Theme and Colors ---
 #theme = Github Dark Default
-split-divider-color = #323740
+split-divider-color = #3b404a
 
 # --- Window and Appearance ---
 #window-padding-x = 10
