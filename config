@@ -2,7 +2,9 @@ font-family = Hack
 font-family-italic = Hack Italic
 font-family-bold = Hack Bold
 font-family-bold-italic = Hack BoldItalic
-theme = Catppuccin Frappe
+
+#theme = Catppuccin Frappe
+theme = TokyoNight Storm
 
 shell-integration-features = ssh-env,ssh-terminfo
 
