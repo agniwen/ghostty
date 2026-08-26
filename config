@@ -1,9 +1,11 @@
-font-family = Hack
-font-family-italic = Hack Italic
-font-family-bold = Hack Bold
-font-family-bold-italic = Hack BoldItalic
+auto-update-channel = stable
 
-#theme = Catppuccin Frappe
+font-family = Hack Nerd Font
+font-family-italic = Hack Nerd Font
+font-family-bold = Hack Nerd Font
+font-family-bold-italic = Hack Nerd Font
+
+#theme = Alabaster
 theme = TokyoNight Storm
 
 shell-integration-features = ssh-env,ssh-terminfo
